@@ -1,0 +1,69 @@
+C:\Users\Thais\Desktop\TI\ULA\ULA\bin\Debug\ULA.exe.config
+C:\Users\Thais\Desktop\TI\ULA\ULA\bin\Debug\ULA.exe
+C:\Users\Thais\Desktop\TI\ULA\ULA\bin\Debug\ULA.pdb
+C:\Users\Thais\Desktop\TI\ULA\ULA\obj\Debug\ULA.Form1.resources
+C:\Users\Thais\Desktop\TI\ULA\ULA\obj\Debug\ULA.Properties.Resources.resources
+C:\Users\Thais\Desktop\TI\ULA\ULA\obj\Debug\ULA.csproj.GenerateResource.cache
+C:\Users\Thais\Desktop\TI\ULA\ULA\obj\Debug\ULA.csproj.CoreCompileInputs.cache
+C:\Users\Thais\Desktop\TI\ULA\ULA\obj\Debug\ULA.exe
+C:\Users\Thais\Desktop\TI\ULA\ULA\obj\Debug\ULA.pdb
+C:\Users\Thais\Desktop\TI\ULA\ULA\obj\Debug\ULA.csprojAssemblyReference.cache
+C:\Users\Bryan\Desktop\ULA - Versão1\ULA\bin\Debug\ULA.exe.config
+C:\Users\Bryan\Desktop\ULA - Versão1\ULA\bin\Debug\ULA.exe
+C:\Users\Bryan\Desktop\ULA - Versão1\ULA\bin\Debug\ULA.pdb
+C:\Users\Bryan\Desktop\ULA - Versão1\ULA\obj\Debug\ULA.csprojAssemblyReference.cache
+C:\Users\Bryan\Desktop\ULA - Versão1\ULA\obj\Debug\ULA.Form1.resources
+C:\Users\Bryan\Desktop\ULA - Versão1\ULA\obj\Debug\ULA.Properties.Resources.resources
+C:\Users\Bryan\Desktop\ULA - Versão1\ULA\obj\Debug\ULA.csproj.GenerateResource.cache
+C:\Users\Bryan\Desktop\ULA - Versão1\ULA\obj\Debug\ULA.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Desktop\ULA - Versão1\ULA\obj\Debug\ULA.exe
+C:\Users\Bryan\Desktop\ULA - Versão1\ULA\obj\Debug\ULA.pdb
+D:\Usuários\1193797\Desktop\TI\ULA - Versão1\ULA\bin\Debug\ULA.exe.config
+D:\Usuários\1193797\Desktop\TI\ULA - Versão1\ULA\bin\Debug\ULA.exe
+D:\Usuários\1193797\Desktop\TI\ULA - Versão1\ULA\bin\Debug\ULA.pdb
+D:\Usuários\1193797\Desktop\TI\ULA - Versão1\ULA\obj\Debug\ULA.Form1.resources
+D:\Usuários\1193797\Desktop\TI\ULA - Versão1\ULA\obj\Debug\ULA.Properties.Resources.resources
+D:\Usuários\1193797\Desktop\TI\ULA - Versão1\ULA\obj\Debug\ULA.csproj.GenerateResource.cache
+D:\Usuários\1193797\Desktop\TI\ULA - Versão1\ULA\obj\Debug\ULA.exe
+D:\Usuários\1193797\Desktop\TI\ULA - Versão1\ULA\obj\Debug\ULA.pdb
+D:\Usuários\1193797\Desktop\TI\ULA - Versão1\ULA\obj\Debug\ULA.csprojAssemblyReference.cache
+D:\Usuários\1193797\Desktop\TI\ULA - Versão1\ULA\obj\Debug\ULA.Form2.resources
+C:\Users\Bryan\C#\ULA Forms - Versão1\ULA\obj\Debug\ULA.csprojAssemblyReference.cache
+C:\Users\Bryan\C#\ULA Forms - Versão1\ULA\obj\Debug\ULA.Properties.Resources.resources
+C:\Users\Bryan\C#\ULA Forms - Versão1\ULA\obj\Debug\ULA.csproj.GenerateResource.cache
+C:\Users\Bryan\C#\ULA Forms - Versão1\ULA\obj\Debug\ULA.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\C#\ULA Forms - Versão1\ULA\obj\Debug\ULA.exe
+C:\Users\Bryan\C#\ULA Forms - Versão1\ULA\obj\Debug\ULA.pdb
+C:\Users\Bryan\C#\ULA Forms - Versão1\ULA\bin\Debug\ULA.exe.config
+C:\Users\Bryan\C#\ULA Forms - Versão1\ULA\bin\Debug\ULA.exe
+C:\Users\Bryan\C#\ULA Forms - Versão1\ULA\bin\Debug\ULA.pdb
+C:\Users\Bryan\C#\ULA Forms - Versão1\ULA\obj\Debug\ULA.Calculadora.resources
+C:\Users\1193797\Desktop\ULA Forms - Versão 2\ULA\bin\Debug\ULA.exe.config
+C:\Users\1193797\Desktop\ULA Forms - Versão 2\ULA\obj\Debug\ULA.exe
+C:\Users\1193797\Desktop\ULA Forms - Versão 2\ULA\obj\Debug\ULA.pdb
+C:\Users\1193797\Desktop\ULA Forms - Versão 2\ULA\bin\Debug\ULA.exe
+C:\Users\1193797\Desktop\ULA Forms - Versão 2\ULA\bin\Debug\ULA.pdb
+C:\Users\1193797\Desktop\ULA Forms - Versão 2\ULA\obj\Debug\ULA.csprojResolveAssemblyReference.cache
+C:\Users\1193797\Desktop\ULA Forms - Versão 2\ULA\obj\Debug\ULA.Calculadora.resources
+C:\Users\1193797\Desktop\ULA Forms - Versão 2\ULA\obj\Debug\ULA.Properties.Resources.resources
+C:\Users\1193797\Desktop\ULA Forms - Versão 2\ULA\obj\Debug\ULA.csproj.GenerateResource.Cache
+C:\Users\Bryan\C#\ULA Forms - Versão 3\ULA\bin\Debug\ULA.exe.config
+C:\Users\Bryan\C#\ULA Forms - Versão 3\ULA\bin\Debug\ULA.exe
+C:\Users\Bryan\C#\ULA Forms - Versão 3\ULA\bin\Debug\ULA.pdb
+C:\Users\Bryan\C#\ULA Forms - Versão 3\ULA\obj\Debug\ULA.csprojAssemblyReference.cache
+C:\Users\Bryan\C#\ULA Forms - Versão 3\ULA\obj\Debug\ULA.Calculadora.resources
+C:\Users\Bryan\C#\ULA Forms - Versão 3\ULA\obj\Debug\ULA.Properties.Resources.resources
+C:\Users\Bryan\C#\ULA Forms - Versão 3\ULA\obj\Debug\ULA.csproj.GenerateResource.cache
+C:\Users\Bryan\C#\ULA Forms - Versão 3\ULA\obj\Debug\ULA.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\C#\ULA Forms - Versão 3\ULA\obj\Debug\ULA.exe
+C:\Users\Bryan\C#\ULA Forms - Versão 3\ULA\obj\Debug\ULA.pdb
+C:\Users\Bryan\C#\ULA Forms - Versão 4\ULA\bin\Debug\ULA.exe.config
+C:\Users\Bryan\C#\ULA Forms - Versão 4\ULA\bin\Debug\ULA.exe
+C:\Users\Bryan\C#\ULA Forms - Versão 4\ULA\bin\Debug\ULA.pdb
+C:\Users\Bryan\C#\ULA Forms - Versão 4\ULA\obj\Debug\ULA.csprojAssemblyReference.cache
+C:\Users\Bryan\C#\ULA Forms - Versão 4\ULA\obj\Debug\ULA.Calculadora.resources
+C:\Users\Bryan\C#\ULA Forms - Versão 4\ULA\obj\Debug\ULA.Properties.Resources.resources
+C:\Users\Bryan\C#\ULA Forms - Versão 4\ULA\obj\Debug\ULA.csproj.GenerateResource.cache
+C:\Users\Bryan\C#\ULA Forms - Versão 4\ULA\obj\Debug\ULA.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\C#\ULA Forms - Versão 4\ULA\obj\Debug\ULA.exe
+C:\Users\Bryan\C#\ULA Forms - Versão 4\ULA\obj\Debug\ULA.pdb

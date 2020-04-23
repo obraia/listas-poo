@@ -1,0 +1,7 @@
+789123400001;Alimentos;Bolo;10,00;97;3;16/11/2019 18:08:24;Bolo de chocolate
+789123400003;Alimentos;Pão de forma;2,85;76;1;15/11/2019 18:53:16;Pão de forma
+789123400004;Alimentos;Miojo;1,00;67;6;15/11/2019 14:10:33;Macarrão instantâneo
+789123400005;Alimentos;Feijão;7,20;11;6;15/11/2019 18:53:37;Feijão Máximo
+789123400006;Limpeza;Lava-louças Ypê 500ml;1,70;19;7;15/11/2019 10:50:50;Marca: Ypê
+789123400007;Higiene pessoal;Colgate Total 12;8,29;33;10;16/11/2019 08:55:36;COLGATE TOTAL 12 PROFESSIONAL WHITENING
+789123400008;Outros;Kit Ferramentas Bosch ;55,00;2;4;18/11/2019 22:17:14;Kit Ferramentas Bosch 41 Peças V-Line 41 - com Maleta
