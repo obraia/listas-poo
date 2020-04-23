@@ -1,0 +1,7 @@
+C:\Users\Bryan\C#\Exercicios POO\LAB 2\Ex72\Ex72\obj\Debug\Ex72.csprojAssemblyReference.cache
+C:\Users\Bryan\C#\Exercicios POO\LAB 2\Ex72\Ex72\obj\Debug\Ex72.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\C#\Exercicios POO\LAB 2\Ex72\Ex72\bin\Debug\Ex72.exe.config
+C:\Users\Bryan\C#\Exercicios POO\LAB 2\Ex72\Ex72\bin\Debug\Ex72.exe
+C:\Users\Bryan\C#\Exercicios POO\LAB 2\Ex72\Ex72\bin\Debug\Ex72.pdb
+C:\Users\Bryan\C#\Exercicios POO\LAB 2\Ex72\Ex72\obj\Debug\Ex72.exe
+C:\Users\Bryan\C#\Exercicios POO\LAB 2\Ex72\Ex72\obj\Debug\Ex72.pdb

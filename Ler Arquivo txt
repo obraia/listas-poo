@@ -1,0 +1,158 @@
+  
+	// VERIFICAR A EXISTÊNCIA DE UM ARQUIVO (IMPORTANTE!)
+	
+	string caminhoDoArquivo = "arquivo.txt";
+	
+	if(File.Exists(caminhoDoArquivo))
+	{
+		// Aqui temos certeza da existência do arquivo
+	}
+	else
+	{
+		// caso o arquivo não exista
+	}
+  
+	/////////////////////////////////////////////////////////////////////////////////////////
+	
+	// Ler arquivo com classe estática File	(OPÇÃO)
+	// Estilo de dados do arquivo .txt - Bryan Diniz;18;75
+	
+	int Cont = 0;
+	// Ler todo o arquivo e salvar cada linha em uma posição do vetor
+	string[] lines = System.IO.File.ReadAllLines("pessoas.txt")	;
+
+	for (int i = 0; i < lines.Length; i++)
+	{
+		var aux = lines[i].Split(';');
+		string nome = aux[0]; // valor -> Bryan
+		int idade = int.Parse(aux[1]); // valor -> 18
+		double peso = double.Parse(aux[2]); // valor -> 75
+		
+		VetPessoa[Cont] = new Pessoa(nome, idade, peso);
+		Cont++;
+	}		
+	
+	/////////////////////////////////////////////////////////////////////////////////////////
+	
+	// LER UMA LINHA DE UM ARQUIVO DE TEXTO
+	
+	string caminhoDoArquivo = "arquivo.txt";
+	
+	StreamReader sr = new StreamReader(caminhoDoArquivo);
+	string linha = sr.ReadLine();
+	sr.Close();
+	
+	/////////////////////////////////////////////////////////////////////////////////////////
+	
+	// LER ARQUIVO DE TEXTO, INSTÂNCIAR OBJETO E SALVAR EM UM VETOR DO MESMO TIPO DO OBJETO
+	
+	// 1° linha do arquivo para exemplificar
+	// 1;Bryan Diniz;10020304050;25/11/2000
+	
+	string caminhoDoArquivo = "arquivo.txt";
+	
+	if(File.Exists(caminhoDoArquivo))
+	{	
+		// também podemos instânciar o StreamReader dessa forma:
+		// StreamReader sr = File.OpenText(arquivoContador);
+		using(StreamReader sr = new StreamReader(caminhoDoArquivo))
+		{
+			while(!sr.EndOfStream) // Enquanto não chegar ao fim do fluxo
+			{
+				// ler linha por linha
+				string linha = sr.ReadLine(); // valor -> 1;Bryan Diniz;10020304050;25/11/2000
+				// Separar linha de um arquivo dividido por ';'
+				string[] aux = linha.split(';');
+				int id = aux[0]; // valor -> 1
+				string nome = aux[1]; // valor -> Bryan Diniz
+				string cpf = aux[2]; // valor -> 10020304050
+				string dataNasc = aux[3]; // valor -> 25/11/2000
+				// Continuará dependendo da estrutura do arquivo
+				
+				// Podemos instanciar um objeto a partir desses dados	
+				Conta conta = new Conta(nome,cpf,anoNasc...);
+				
+				// Também podemos adicionar essa conta em uma vetor
+				vetContas[Cont] = conta;
+				Cont++; // Atualizar contador para a adição da próxima conta
+			}
+		}
+	}
+	else
+	{
+		Console.WriteLine("Arquivo não encontrado");
+	}
+	
+	/////////////////////////////////////////////////////////////////////////////////////////
+	
+	// ESCREVER EM ARQUIVO COM STREAMREADER
+	
+	string caminhoDoArquivo = "arquivo.txt";
+	string escreverArquivo = "O que iremos escrever no arquivo";
+	
+	if(File.Exists(caminhoDoArquivo))
+	{
+		// se o StreamWriter for instânciado dessa forma o arquivo será
+		// limpado e escrito com o que estiver no WriteLine abaixo
+		using(StreamWriter sw = new StreamWriter(caminhoDoArquivo))
+		{
+		sw.WriteLine(escreverArquivo);
+		}
+	}
+	
+	// Para escrever sem apagar o que já estava escrito no arquivo usamos:
+	
+	string escreverArquivo = "O que iremos escrever no arquivo";
+	
+	if(File.Exists(caminhoDoArquivo))
+	{
+		// Como o AppendText será mantido os dados já presentes no arquivo
+		using(StreamWriter sw = File.AppendText(caminhoDoArquivo))
+		{
+		sw.WriteLine(escreverArquivo);
+		}
+	}
+	
+	// Caso for necessário escrever na mesma linha, podemos usar sw.Write
+	// ao invés de sw.WriteLine
+	
+	/////////////////////////////////////////////////////////////////////////////////////////
+	
+	// ESCREVER DADOS DE UM VETOR DO TIPO DE UM OBJETO EM UM ARQUIVO DE TEXTO
+	
+	// Vamos supor que temos uma classe do tipo contas com os seguintes atributos:
+	// ID
+	// Nome
+	// Saldo
+	// CPF
+	// E que também temos um vetor com 10 de capacidade do tipo da nossa classe conta como podemos ver abaixo:
+	
+	string caminhoDoArquivo = "arquivo.txt";
+	Conta[] vetContas = new Conta[10];
+	
+	// Para escrever todos os dados que estão em cada objeto dentro do vetor usaremos um for
+	// Também vamos levar em consideração que as 10 posições do vetor estejam populadas com contas
+	// Caso não estejam podemos usar um contador para definirmos até que posição terá contas cadastradas
+	
+	for(int i = 0; i < vetContas.Length; i++)
+	{
+		// aqui iremos concatenar todos os dados de um objeto conta dentro do vetor
+		// Para isso funcionar é preciso ter atributos publicos, ou métodos get para
+		// que assim seja possível pegar esses dados 
+		string linha = vetContas[i].ID + ";" + vetContas[i].Nome + ";" + vetContas[i].Saldo + ";" + vetContas[i].CPF; 
+		
+		// Agora usaremos um StreamWriter para escrevermos cada linha no arquivo
+		using(StreamWriter sw = File.AppendText(caminhoDoArquivo))
+		{
+		sw.WriteLine(linha);
+		}
+		
+		// Ao decorrer do for todos os objetos do vetor será convertido para uma string e escrita no arquivo
+	}
+	
+	// Também poderiamos criar um método que retornasse esse mesmo valor da string linha acima
+	// assim na quando formos usar o sw.WriteLine, como parâmetro chamariamos direto um "vetContas[i].EscreverArquivo();"
+	
+	
+	
+	

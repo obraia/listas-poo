@@ -1,0 +1,7 @@
+C:\Users\Bryan\C#\Exercicios POO\LAB 3\Ex21\Ex21\bin\Debug\Ex21.exe.config
+C:\Users\Bryan\C#\Exercicios POO\LAB 3\Ex21\Ex21\bin\Debug\Ex21.exe
+C:\Users\Bryan\C#\Exercicios POO\LAB 3\Ex21\Ex21\bin\Debug\Ex21.pdb
+C:\Users\Bryan\C#\Exercicios POO\LAB 3\Ex21\Ex21\obj\Debug\Ex21.csprojAssemblyReference.cache
+C:\Users\Bryan\C#\Exercicios POO\LAB 3\Ex21\Ex21\obj\Debug\Ex21.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\C#\Exercicios POO\LAB 3\Ex21\Ex21\obj\Debug\Ex21.exe
+C:\Users\Bryan\C#\Exercicios POO\LAB 3\Ex21\Ex21\obj\Debug\Ex21.pdb

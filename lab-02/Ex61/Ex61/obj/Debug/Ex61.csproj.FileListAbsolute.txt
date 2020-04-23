@@ -1,0 +1,7 @@
+C:\Users\Bryan\C#\Exercicios POO\LAB 2\Ex61\Ex61\bin\Debug\Ex61.exe.config
+C:\Users\Bryan\C#\Exercicios POO\LAB 2\Ex61\Ex61\bin\Debug\Ex61.exe
+C:\Users\Bryan\C#\Exercicios POO\LAB 2\Ex61\Ex61\bin\Debug\Ex61.pdb
+C:\Users\Bryan\C#\Exercicios POO\LAB 2\Ex61\Ex61\obj\Debug\Ex61.csprojAssemblyReference.cache
+C:\Users\Bryan\C#\Exercicios POO\LAB 2\Ex61\Ex61\obj\Debug\Ex61.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\C#\Exercicios POO\LAB 2\Ex61\Ex61\obj\Debug\Ex61.exe
+C:\Users\Bryan\C#\Exercicios POO\LAB 2\Ex61\Ex61\obj\Debug\Ex61.pdb

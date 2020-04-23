@@ -1,0 +1,7 @@
+C:\Users\Bryan\C#\Exercicios POO\LAB 3\Ex13\Ex13\bin\Debug\Ex13.exe.config
+C:\Users\Bryan\C#\Exercicios POO\LAB 3\Ex13\Ex13\bin\Debug\Ex13.exe
+C:\Users\Bryan\C#\Exercicios POO\LAB 3\Ex13\Ex13\bin\Debug\Ex13.pdb
+C:\Users\Bryan\C#\Exercicios POO\LAB 3\Ex13\Ex13\obj\Debug\Ex13.csprojAssemblyReference.cache
+C:\Users\Bryan\C#\Exercicios POO\LAB 3\Ex13\Ex13\obj\Debug\Ex13.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\C#\Exercicios POO\LAB 3\Ex13\Ex13\obj\Debug\Ex13.exe
+C:\Users\Bryan\C#\Exercicios POO\LAB 3\Ex13\Ex13\obj\Debug\Ex13.pdb

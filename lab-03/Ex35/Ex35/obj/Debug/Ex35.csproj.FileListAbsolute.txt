@@ -1,0 +1,7 @@
+C:\Users\Bryan\C#\Exercicios POO\LAB 3\Ex35\Ex35\bin\Debug\Ex35.exe.config
+C:\Users\Bryan\C#\Exercicios POO\LAB 3\Ex35\Ex35\bin\Debug\Ex35.exe
+C:\Users\Bryan\C#\Exercicios POO\LAB 3\Ex35\Ex35\bin\Debug\Ex35.pdb
+C:\Users\Bryan\C#\Exercicios POO\LAB 3\Ex35\Ex35\obj\Debug\Ex35.csprojAssemblyReference.cache
+C:\Users\Bryan\C#\Exercicios POO\LAB 3\Ex35\Ex35\obj\Debug\Ex35.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\C#\Exercicios POO\LAB 3\Ex35\Ex35\obj\Debug\Ex35.exe
+C:\Users\Bryan\C#\Exercicios POO\LAB 3\Ex35\Ex35\obj\Debug\Ex35.pdb

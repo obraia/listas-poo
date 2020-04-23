@@ -1,0 +1,2 @@
+PF,1000,Bryan Diniz,Rua A,False,1000,00
+PJ,20000,Joao,Rua B,False,10000,00

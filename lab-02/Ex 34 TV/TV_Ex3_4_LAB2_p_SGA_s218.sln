@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TV_Ex3_4_LAB2_p_SGA_s218", "TV_Ex3_4_LAB2_p_SGA_s218\TV_Ex3_4_LAB2_p_SGA_s218.csproj", "{CBB61378-0161-4807-BCF1-DB00AECB5FEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBB61378-0161-4807-BCF1-DB00AECB5FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB61378-0161-4807-BCF1-DB00AECB5FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB61378-0161-4807-BCF1-DB00AECB5FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB61378-0161-4807-BCF1-DB00AECB5FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

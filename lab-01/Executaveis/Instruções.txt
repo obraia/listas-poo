@@ -1,0 +1,11 @@
+INTRUÇÕES PARA CMD
+--------------------------------
+Ex31.exe 9 x 7 
+Ex32.exe 9 3 8 5 
+Ex33.exe 1 1 0 1 1 h 1 0 0 1 1
+Ex34.exe 15
+Ex35.exe 75 C 
+Ex51.exe 32 - 17 
+Ex55.exe 83 °F
+Ex56.exe
+Ex57.exe

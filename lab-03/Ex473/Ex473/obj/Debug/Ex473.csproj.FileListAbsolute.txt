@@ -1,0 +1,13 @@
+C:\Users\Bryan\C#\Exercicios POO\LAB 3\Ex473\Ex473\bin\Debug\Ex473.exe.config
+C:\Users\Bryan\C#\Exercicios POO\LAB 3\Ex473\Ex473\bin\Debug\Ex473.exe
+C:\Users\Bryan\C#\Exercicios POO\LAB 3\Ex473\Ex473\bin\Debug\Ex473.pdb
+C:\Users\Bryan\C#\Exercicios POO\LAB 3\Ex473\Ex473\obj\Debug\Ex473.csprojAssemblyReference.cache
+C:\Users\Bryan\C#\Exercicios POO\LAB 3\Ex473\Ex473\obj\Debug\Ex473.Properties.Resources.resources
+C:\Users\Bryan\C#\Exercicios POO\LAB 3\Ex473\Ex473\obj\Debug\Ex473.csproj.GenerateResource.cache
+C:\Users\Bryan\C#\Exercicios POO\LAB 3\Ex473\Ex473\obj\Debug\Ex473.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\C#\Exercicios POO\LAB 3\Ex473\Ex473\obj\Debug\Ex473.exe
+C:\Users\Bryan\C#\Exercicios POO\LAB 3\Ex473\Ex473\obj\Debug\Ex473.pdb
+C:\Users\Bryan\C#\Exercicios POO\LAB 3\Ex473\Ex473\obj\Debug\Ex473.NovaConta.resources
+C:\Users\Bryan\C#\Exercicios POO\LAB 3\Ex473\Ex473\obj\Debug\Ex473.Saque.resources
+C:\Users\Bryan\C#\Exercicios POO\LAB 3\Ex473\Ex473\obj\Debug\Ex473.Deposito.resources
+C:\Users\Bryan\C#\Exercicios POO\LAB 3\Ex473\Ex473\obj\Debug\Ex473.Banco.resources
